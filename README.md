@@ -17,6 +17,7 @@
 - A fost creat un tabel pivot pentru analiza vânzărilor în funcție de regiune și categorie de produse, folosind suma vânzărilor. Valorile au fost sortate descrescător pentru a evidenția cele mai performante combinații.  
 
 - Pe baza acestuia, a fost realizat un grafic de tip column chart pentru vizualizarea distribuției vânzărilor, evidențiind categoriile cu cea mai mare contribuție la venituri.  
+![Image Alt](https://github.com/rzvrazor/excel-superstore-analysis/blob/029099edc3daa6be75cd08dcf0e3d0fc9bccee81/screenshots/7%20-%20Sales%20by%20Region%20and%20Category%20Pivot%20Chart.png)
 
 - Pentru o perspectivă completă, a fost creat un tabel pivot suplimentar bazat pe Profit, care permite identificarea regiunilor cu performanță financiară negativă.  
 
