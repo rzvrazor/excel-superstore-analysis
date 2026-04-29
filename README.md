@@ -19,7 +19,8 @@
 - Pe baza acestuia, a fost realizat un grafic de tip column chart pentru vizualizarea distribuției vânzărilor, evidențiind categoriile cu cea mai mare contribuție la venituri.  
 ![Image Alt](https://github.com/rzvrazor/excel-superstore-analysis/blob/029099edc3daa6be75cd08dcf0e3d0fc9bccee81/screenshots/7%20-%20Sales%20by%20Region%20and%20Category%20Pivot%20Chart.png)
 
-- Pentru o perspectivă completă, a fost creat un tabel pivot suplimentar bazat pe Profit, care permite identificarea regiunilor cu performanță financiară negativă.  
+- Pentru o perspectivă completă, a fost creat un tabel pivot suplimentar bazat pe Profit, care permite identificarea regiunilor cu performanță financiară negativă.
+![Image Alt](https://github.com/rzvrazor/excel-superstore-analysis/blob/1b3e9b6374c8c71da26643e3f233c4c99887a3b2/screenshots/8%20-%20Profit%20by%20Region%20Category%20Pivot%20Table%20and%20Chart.png)
 
 
 ## 💡 Key Insights
