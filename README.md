@@ -3,8 +3,8 @@
 - Am utilizat funcția de filtrare din Excel pentru a identifica valorile lipsă (blank) din setul de date. Această etapă a ajutat la înțelegerea distribuției datelor lipsă și la evaluarea impactului asupra calității datasetului.  
 
 - Am utilizat funcția Find & Replace pentru a standardiza valorile lipsă reprezentate inconsistent (ex: „NA”), acestea fiind înlocuite cu celule goale pentru a asigura consistența datelor.  
- ![Image Alt]([image_url](https://github.com/rzvrazor/excel-superstore-analysis/blob/989f1bf3f2d007b1dd12972791fac87b4d1392a7/screenshots/2%20-%20Find%20Replace.png))
-https://github.com/rzvrazor/excel-superstore-analysis/blob/989f1bf3f2d007b1dd12972791fac87b4d1392a7/screenshots/2%20-%20Find%20Replace.png
+![Image Alt](https://github.com/rzvrazor/excel-superstore-analysis/blob/2aa4d47f988af89f87d483c0b885c5a569798e2d/screenshots/2%20-%20Find%20Replace.png)
+https://github.com/rzvrazor/excel-superstore-analysis/blob/2aa4d47f988af89f87d483c0b885c5a569798e2d/screenshots/2%20-%20Find%20Replace.png
 - Am verificat existența valorilor duplicate folosind funcția de identificare a duplicatelor din Excel. Acestea au fost evidențiate pentru evaluare, fără a fi eliminate în această etapă.  
 
 - Coloana „Order Date” a fost convertită și standardizată în format de tip dată (Date), pentru a permite analiza corectă a datelor în funcție de timp.  
